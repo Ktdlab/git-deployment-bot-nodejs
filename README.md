@@ -13,9 +13,9 @@ This gist assumes:
 ## Install nodejs...
 
 ## Download script...
-git clone https://github.com/Ktdlab/git-deployment-bot-nodejs.git
-*After you download script replace in update.js "Username/Repo" to your name and repository*
-*Then in script.sh change rootdir to git local directory*
+1. git clone https://github.com/Ktdlab/git-deployment-bot-nodejs.git
+2. *After you download script replace in update.js "Username/Repo" to your name and repository3*
+3. *Then in script.sh change rootdir to git local directory*
 
 # 2 - On your origin (github)
 
