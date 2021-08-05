@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ROOT_DIR='/home/ktd/github/ubuntu-easy-cleaner'
+ROOT_DIR='/path/to/dir'
 
 cd $ROOT_DIR
 git pull
